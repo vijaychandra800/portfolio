@@ -10,30 +10,30 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Chat</LinkTitle>
-          <LinkItem href="https://t.me/vijaychandra800">Telegram</LinkItem>
+          <LinkItem href="https://t.me/vijaychandra800" target="_blank">Telegram</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:vijaychandra800@gmail.com">
-            vipul@hexoncode.com
+            vijaychandra800@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2021 <Link href="https://www.vijaychandra.me">  Vijay Chandra</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2021 <Link href="https://www.vijaychandra.me" target="_blank">  Vijay Chandra</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href='https://github.com/vijaychandra800 target="_blank" '>
+          <SocialIcons href="https://github.com/vijaychandra800" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href='https://www.linkedin.com/in/vijaychandra800 target="_blank" '>
+          <SocialIcons href="https://www.linkedin.com/in/vijaychandra800" target="_blank">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/lordarcadius">
+          <SocialIcons href="https://www.instagram.com/vijaychandra800" target="_blank">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.twitter.com/lordarcadius">
+          <SocialIcons href="https://www.twitter.com/000vj000" target="_blank">
             <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>
