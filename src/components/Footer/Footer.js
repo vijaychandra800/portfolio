@@ -24,10 +24,10 @@ const Footer = () => {
           <Slogan>&copy; 2021 <Link href="https://www.vijaychandra.me">  Vijay Chandra</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/vijaychandra800 target="_blank"">
+          <SocialIcons href='https://github.com/vijaychandra800 target="_blank" '>
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/vijaychandra800 target="_blank"">
+          <SocialIcons href='https://www.linkedin.com/in/vijaychandra800 target="_blank" '>
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://www.instagram.com/lordarcadius">
