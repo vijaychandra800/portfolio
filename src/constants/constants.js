@@ -69,7 +69,7 @@ export const projects = [
     image: '/images/blog.jpg',
     tags: ['Cloud Computing', 'WordPress', 'SEO', 'Digital Marketing'],
     source: '#',
-    visit: 'https://atozhacks.in',
+    visit: 'https://atozhacks.in' target="_blank",
     id: 3,
   },
 
