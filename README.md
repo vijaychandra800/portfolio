@@ -10,12 +10,12 @@ A portfolio built in React and NextJS. Simple, clean and fast.
 
 
 
-![App Screenshot](https://i.ibb.co/tM4chbH/Screenshot-20210621-232737.png)
+![App Screenshot](https://prnt.sc/1qr5g8v)
 
   
 ## Demo
 
-[Live Preview](https://www.vipuljha.com)
+[Live Preview](https://www.vijaychandra.me/)
 
 ## Run Project 
 
