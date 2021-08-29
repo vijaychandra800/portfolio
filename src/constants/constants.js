@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://bit.ly/screenieapp',
     id: 0,
   },
+    {
+    title: 'Firebase PDF Reader Android Application',
+    description: "I've created an Android App on Java that fetches the list of PDF files and displays it on the App. I've used Firebase Real-Time Database for storing the URL of the PDF files. I've used an external library to directly render(open) the PDF file inside of the app itself without downloading it onto the device.",
+    image: '/images/pdf.jpg',
+    tags: ['Java', 'Firebase', 'XML'],
+    source: 'https://github.com/vijaychandra800/Books_App',
+    visit: 'https://github.com/vijaychandra800/Books_App',
+    id: 3,
+  },
   {
     title: 'Expense Tracker App built on Flutter',
     description: "I've started learning Flutter, Completed all the basics, and started working on it, This is the basic Expense Tracker App which is used to store daily Expenses.",
@@ -26,15 +35,7 @@ export const projects = [
     visit: 'https://github.com/vijaychandra800/Rain_Alerts',
     id: 2,
   },
-  {
-    title: 'Firebase PDF Reader Android Application',
-    description: "I've created an Android App on Java that fetches the list of PDF files and displays it on the App. I've used Firebase Real-Time Database for storing the URL of the PDF files. I've used an external library to directly render(open) the PDF file inside of the app itself without downloading it onto the device.",
-    image: '/images/pdf.jpg',
-    tags: ['Java', 'Firebase', 'XML'],
-    source: 'https://github.com/vijaychandra800/Books_App',
-    visit: 'https://github.com/vijaychandra800/Books_App',
-    id: 3,
-  },
+
   {
     title: 'Developed Android Status Videos App (Deprecated)',
     description: "I've developed an Android Status Video app and published it on Play Store which crossed 10,000+ Downloads. I've implemented a very important feature that automatically Watermark's every video that is uploaded by users with the FFMPEG Linux plugin.",
