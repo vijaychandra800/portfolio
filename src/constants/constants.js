@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Rain Alerts Python Project',
     description: "This is a Python Script built using Open Weather API to fetch the Rain Conditions and Alert the User by sending an SMS to their Mobile Number.",
-    image: '/images/rain.jpg',
+    image: '/images/rain.png',
     tags: ['API', 'Python'],
     source: 'https://github.com/vijaychandra800/Rain_Alerts',
     visit: 'https://github.com/vijaychandra800/Rain_Alerts',
@@ -57,7 +57,7 @@ export const projects = [
   {
     title: 'Created a YouTube Channel',
     description: "Created a Channel to show some Video Tutorials to my visitors who are unable to understand tutorials on my blog. I used to post content about How I created Custom Roms and What I used to create those. My Channel has crossed 1,75,000+ all-time views.",
-    image: '/images/yt.jpg',
+    image: '/images/yt.png',
     tags: ['Digital Marketing', 'YouTube', 'SEO' ],
     source: '#',
     visit: 'https://www.youtube.com/atozhacksofficial',
@@ -67,7 +67,7 @@ export const projects = [
   {
     title: 'A Complete WordPress Blog with Monetization',
     description: "I've created a Tech Blog when I was 13 years old, It was initially created on Blogger and later migrated to WordPress. I manage both the Backend, Frontend, Promotion, and content on my site.",
-    image: '/images/blog.jpg',
+    image: '/images/blog.png',
     tags: ['Cloud Computing', 'WordPress', 'SEO', 'Digital Marketing'],
     source: '#',
     visit: 'https://atozhacks.in',
