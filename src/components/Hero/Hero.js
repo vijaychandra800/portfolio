@@ -9,7 +9,7 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hey there,
+          Welcome,
         </SectionTitle>
         <SectionText>
           Hey there, This is Vijay Chandra. I am an Blogger, Freelancer, YouTuber, Android and Flutter Developer who also works on ROMs & Scripts.
