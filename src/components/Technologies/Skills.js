@@ -52,7 +52,7 @@ export const Skills = [
     slug: "cloud",
     Component: FaCloud,
     title: "Cloud Computing",
-    Description: () => <>I have been managing all of my VPS on my own since many years. I have hands on experience on Google Cloud and AWS, Digital Ocean etc.</>,
+    Description: () => <>I have been managing all of my VPS on my own since many years. I have hands on experience on GCloud, AWS, Digital Ocean etc.</>,
   },
   {
     slug: "python",
