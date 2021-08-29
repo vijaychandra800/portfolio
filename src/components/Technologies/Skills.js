@@ -1,6 +1,9 @@
 import { DiAndroid, DiTerminal } from "react-icons/di";
 import { SiJava, SiFirebase, SiGit } from "react-icons/si";
 import { RiFlutterFill } from "react-icons/ri";
+import { FaCloud } from "react-icons/fa";
+import { SiPython } from "react-icons/si";
+import { FaBlogger } from "react-icons/fa";
 
 export const Skills = [
   {
@@ -41,16 +44,20 @@ export const Skills = [
   },
   {
     slug: "digitalmarketing",
-    Component: SiGit,
+    Component: FaBlogger,
     title: "Blogging",
-    Description: () => <>I have built several websites and ranked them on Google First Page. I have implemented all the SEO Stratergies on all of my blogs.
-    I also worked on Amazon, Flipkart Affiliate Niches.</>,
+    Description: () => <>I have implemented many SEO Stratergies to rank my websites. I also worked on Amazon, Flipkart Affiliate Niches.</>,
   },
-  
   {
     slug: "cloud",
-    Component: SiGit,
+    Component: FaCloud,
     title: "Cloud Computing",
     Description: () => <>I have been managing all of my VPS on my own since many years. I have hands on experience on Google Cloud and AWS, Digital Ocean etc.</>,
+  },
+  {
+    slug: "python",
+    Component: SiPython,
+    title: "Python",
+    Description: () => <>I mostly use Python to code. I use Python for most of my Projects and also for Web Automation.</>,
   },
 ];
