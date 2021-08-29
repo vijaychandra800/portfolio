@@ -11,7 +11,7 @@ export const projects = [
     {
     title: 'Firebase PDF Reader Android Application',
     description: "I've created an Android App on Java that fetches the list of PDF files and displays it on the App. I've used Firebase Real-Time Database for storing the URL of the PDF files. I've used an external library to directly render(open) the PDF file inside of the app itself without downloading it onto the device.",
-    image: '/images/pdf.jpg',
+    image: '/images/firebase.png',
     tags: ['Java', 'Firebase', 'XML'],
     source: 'https://github.com/vijaychandra800/Books_App',
     visit: 'https://github.com/vijaychandra800/Books_App',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Expense Tracker App built on Flutter',
     description: "I've started learning Flutter, Completed all the basics, and started working on it, This is the basic Expense Tracker App which is used to store daily Expenses.",
-    image: '/images/flutter.jpg',
+    image: '/images/flutter.png',
     tags: ['Dart', 'Flutter' ],
     source: 'https://github.com/vijaychandra800/Expense_Tracker',
     visit: 'https://github.com/vijaychandra800/Expense_Tracker',
