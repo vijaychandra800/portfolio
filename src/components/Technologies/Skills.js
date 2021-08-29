@@ -41,7 +41,7 @@ export const Skills = [
   },
   {
     slug: "digitalmarketing",
-    Component: digitalmarketing,
+    Component: SiGit,
     title: "Blogging",
     Description: () => <>I have built several websites and ranked them on Google First Page. I have implemented all the SEO Stratergies on all of my blogs.
     I also worked on Amazon, Flipkart Affiliate Niches.</>,
@@ -49,7 +49,7 @@ export const Skills = [
   
   {
     slug: "cloud",
-    Component: cloud,
+    Component: SiGit,
     title: "Cloud Computing",
     Description: () => <>I have been managing all of my VPS on my own since many years. I have hands on experience on Google Cloud and AWS, Digital Ocean etc.</>,
   },
