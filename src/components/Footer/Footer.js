@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2021 <Link href="https://www.vijaychandra.me" target="_blank">  Vijay Chandra</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2024 <Link href="https://vijaychandra.atozhacks.in/" target="_blank">  Vijay Chandra</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/vijaychandra800" target="_blank">
