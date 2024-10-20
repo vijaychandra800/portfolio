@@ -83,5 +83,6 @@ export const TimeLineData = [
   { year: 2019, text: 'Started Android Development.', },
   { year: 2020, text: 'Started Working with APIs and Scripts.', },
   { year: 2021, text: 'Trying to master Coding.', },
-  { year: 2022, text: 'Started Professional Career at Cisco.', },
+  { year: 2022, text: 'Started Professional Career as a Consulting Engineer at Cisco.', },
+  { year: 2024, text: 'Switched gears to be a Site Reliability Engineer at Cisco.', },
 ];
